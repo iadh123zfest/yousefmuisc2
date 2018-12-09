@@ -1,0 +1,6 @@
+﻿token= 
+owner= 
+prefix= 
+game= help
+stayinchannel=true 
+songinstatus=true 
